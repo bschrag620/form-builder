@@ -1,2 +1,2 @@
-class Api::FormsController < ApplicationController
+class Api::FormsController < ApiController
 end
